@@ -23,3 +23,8 @@ Voici quelques-uns des projets auxquels j'ai travaillé récemment :
 - Vous pouvez me contacter via [mon Portfolio](https://jules.contact) pour discuter de collaborations ou d'autres opportunités. 💌
 
 Merci de visiter mon profil GitHub ! N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou des suggestions. 🙌
+
+
+## Mes contributions privées 
+
+![Texte alternatif](https://api.jules.contact/assets/652322c5-ffad-45d5-95e0-a3357f817e38?width=1200&quality=90).
