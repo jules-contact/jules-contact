@@ -1,10 +1,6 @@
 
 # Bienvenue sur mon profil GitHub ! 👋
 
-Hello ! 
-Je suis Jules, un développeur web qui travaille principalement avec l'architecture **Jamstack** lorsque cela est possible 🚀
-
-
 ## Projets 📁
 
 Voici quelques-uns des projets auxquels j'ai participé récemment :
@@ -35,7 +31,7 @@ Voici quelques-uns des projets auxquels j'ai participé récemment :
 		- MSI B450M
 		- Yamaha HS7 + Focusrite Scarlett Solo
 
-- **Software**
+- **Software** 🎬:
 	- Blender
 	- Notion
 	- Figma
@@ -66,7 +62,7 @@ Voici quelques-uns des projets auxquels j'ai participé récemment :
 
 - **The most important  🎧:**
 	- Spotify 
-	- X 
+	- X (ex-Twitter 👀)
 	- Reddit
 	- ChatGPT
 
