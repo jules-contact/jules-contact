@@ -5,16 +5,16 @@
 
 Voici quelques-uns des projets auxquels j'ai participé récemment :
 
-- Mon Portfolio
+- **Mon Portfolio**
 	- [GitHub](https://github.com/jules-contact/jules-frontend)
 	- [Website](https://jules.contact)
-- Frigo&CO 
+- **Frigo&CO** 
 	-	[Website](https://frigoandco.eu)
-- Paul Bourgey 
+- **Paul Bourgey**
 	- [Website](https://paulbourgey.fr)
-- Joy
+- **Joy**
 	- En floraison
-- Ixaire
+- **Ixaire**
 	- En développement
   
 ... la suite arrive ASAP 🚧
@@ -31,7 +31,7 @@ Voici quelques-uns des projets auxquels j'ai participé récemment :
 		- MSI B450M
 		- Yamaha HS7 + Focusrite Scarlett Solo
 
-- **Software** 🎬:
+- **Software** 🎬 :
 	- Blender
 	- Notion
 	- Figma
@@ -60,7 +60,7 @@ Voici quelques-uns des projets auxquels j'ai participé récemment :
 	- ESLint
 	- Stylelint
 
-- **The most important  🎧:**
+- **The most important 🎧:**
 	- Spotify 
 	- X (ex-Twitter 👀)
 	- Reddit
