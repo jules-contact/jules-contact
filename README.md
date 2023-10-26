@@ -46,7 +46,8 @@ Voici quelques-uns des projets auxquels j'ai participé récemment :
 	- Bash
 	- SQL
  
-- **Frameworks et bibliotèques 📓 :** 
+- **Frameworks et bibliotèques 📓 :**
+  	- Vue - Options et Composition API
 	- Nuxt 3
 	- Node
 	- PostgreSQL
