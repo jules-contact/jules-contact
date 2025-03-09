@@ -6,10 +6,9 @@
 Voici quelques-uns des projets auxquels j'ai participé récemment :
 
 - **Mon Portfolio**
-	- [GitHub](https://github.com/jules-contact/jules-frontend) (Currently on work)
 	- [Website](https://jules.contact)
 - **Frigo&CO** 
-	-	[Website](https://frigoandco.eu)
+	- [Website](https://frigoandco.eu)
 - **Paul Bourgey**
 	- [Website](https://paulbourgey.fr)
 - **Joy**
