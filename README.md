@@ -20,16 +20,6 @@ Voici quelques-uns des projets auxquels j'ai participé récemment :
 
 ## Environnement de travail 💼
 
-- **Matériel** 💻 : 
-	- MacBook Pro M1 - macOS
-	- MacBook Pro 2015 - macOS
-	- Custom PC - Windows 11
-		- Ryzen 7 2700
-		- Nvidia GeForce RTX 2070 SUPER
-		- Corsair Vengeance 2x8GB 3200 mhz - DDR4
-		- MSI B450M
-		- Yamaha HS7 + Focusrite Scarlett Solo
-
 - **Software** 🎬 :
 	- Blender
 	- Notion
